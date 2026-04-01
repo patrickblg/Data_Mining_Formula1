@@ -1,0 +1,37 @@
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.idea/
+
+# Generated images
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
